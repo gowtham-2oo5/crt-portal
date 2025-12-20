@@ -21,7 +21,7 @@
 - **OTP**: `123456` (default for testing)
 
 ### Faculty Account
-- **Email**: `test@kluniversity.in`
+- **Email**: `faculty@kluniversity.in`
 - **Password**: `Faculty@CRT456`
 - **OTP**: `123456` (default for testing)
 
